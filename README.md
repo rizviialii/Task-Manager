@@ -1,4 +1,4 @@
-# 📝 Task Manager (CRUD Application)
+# 📝 Task Manager
 
 A simple and efficient **Task Manager application** that allows users to perform full **CRUD (Create, Read, Update, Delete)** operations on tasks. This project demonstrates core development concepts including RESTful APIs, data handling, and clean code structure.
 
