@@ -1,26 +1,24 @@
-# 📝 Task Manager (CRUD)
+# 📝 Task Manager (CRUD Application)
 
-A clean and minimal web-based task manager designed to help you stay organized and productive. This project demonstrates the core principles of CRUD (Create, Read, Update, Delete).
+A simple and efficient **Task Manager application** that allows users to perform full **CRUD (Create, Read, Update, Delete)** operations on tasks. This project demonstrates core development concepts including RESTful APIs, data handling, and clean code structure.
 
-## ✨ Features
+---
 
-- Add tasks using an input bar  
-- View tasks instantly  
-- Delete tasks easily  
-- Real-time updates  
+## 🚀 Features
+
+- ➕ Create new tasks  
+- 📋 View all tasks  
+- ✏️ Update existing tasks  
+- ❌ Delete tasks  
+- ⚡ Fast and responsive application  
+- 🧩 Clean and modular code structure  
+
+---
 
 ## 🛠️ Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript  
+> Update this based on your project
 
-## 💡 How It Works
-
-1. Enter a task  
-2. Add it  
-3. Manage it easily  
-
-## 📌 Purpose
-
-Built to practice CRUD operations and improve frontend development skills.
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
