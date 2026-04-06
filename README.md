@@ -17,8 +17,6 @@ A simple and efficient **Task Manager application** that allows users to perform
 
 ## 🛠️ Tech Stack
 
-> Update this based on your project
-
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
